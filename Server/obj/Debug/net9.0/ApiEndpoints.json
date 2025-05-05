@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Server.Controllers.EnrollController",
+    "Method": "Enroll",
+    "RelativePath": "api/Enroll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Server.Controllers.EnrollController",
+    "Method": "SubmitEnrollmentForm",
+    "RelativePath": "api/Enroll/submit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "Server.Controllers.StudentDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

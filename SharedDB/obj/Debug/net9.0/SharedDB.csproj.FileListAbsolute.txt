@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\ES_OOP\ProjectSol\SharedDB\bin\Debug\net9.0\SharedDB.deps.json
+C:\Users\USER\Documents\ES_OOP\ProjectSol\SharedDB\bin\Debug\net9.0\SharedDB.runtimeconfig.json
+C:\Users\USER\Documents\ES_OOP\ProjectSol\SharedDB\bin\Debug\net9.0\SharedDB.dll
+C:\Users\USER\Documents\ES_OOP\ProjectSol\SharedDB\bin\Debug\net9.0\SharedDB.pdb
+C:\Users\USER\Documents\ES_OOP\ProjectSol\SharedDB\obj\Debug\net9.0\SharedDB.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\ES_OOP\ProjectSol\SharedDB\obj\Debug\net9.0\SharedDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\ES_OOP\ProjectSol\SharedDB\obj\Debug\net9.0\SharedDB.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\ES_OOP\ProjectSol\SharedDB\obj\Debug\net9.0\SharedDB.AssemblyInfo.cs
+C:\Users\USER\Documents\ES_OOP\ProjectSol\SharedDB\obj\Debug\net9.0\SharedDB.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\ES_OOP\ProjectSol\SharedDB\obj\Debug\net9.0\SharedDB.dll
+C:\Users\USER\Documents\ES_OOP\ProjectSol\SharedDB\obj\Debug\net9.0\refint\SharedDB.dll
+C:\Users\USER\Documents\ES_OOP\ProjectSol\SharedDB\obj\Debug\net9.0\SharedDB.pdb
+C:\Users\USER\Documents\ES_OOP\ProjectSol\SharedDB\obj\Debug\net9.0\SharedDB.genruntimeconfig.cache
+C:\Users\USER\Documents\ES_OOP\ProjectSol\SharedDB\obj\Debug\net9.0\ref\SharedDB.dll
