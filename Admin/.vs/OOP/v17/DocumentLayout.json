@@ -1,0 +1,363 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|c:\\users\\user\\documents\\desktop app\\oop\\studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|solutionrelative:studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|c:\\users\\user\\documents\\desktop app\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|c:\\users\\user\\documents\\desktop app\\oop\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|c:\\users\\user\\documents\\desktop app\\oop\\oop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|solutionrelative:oop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|c:\\users\\user\\documents\\desktop app\\oop\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|solutionrelative:admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|C:\\Users\\USER\\Documents\\Desktop App\\OOP\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|C:\\Users\\USER\\Documents\\Desktop App\\OOP\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|C:\\Users\\USER\\Documents\\Desktop App\\OOP\\studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|solutionrelative:studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|c:\\users\\user\\documents\\desktop app\\oop\\studentinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|solutionrelative:studentinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Documents\\Desktop App\\OOP\\Migrations\\20250331075150_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250331075150_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Documents\\Desktop App\\OOP\\Migrations\\20250331075103_ASDwad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250331075103_ASDwad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|c:\\users\\user\\documents\\desktop app\\oop\\admindashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|solutionrelative:admindashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|c:\\users\\user\\documents\\desktop app\\oop\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|solutionrelative:service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|C:\\Users\\USER\\Documents\\Desktop App\\OOP\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|c:\\users\\user\\documents\\desktop app\\oop\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D231B946-495A-41D0-9671-925E5FE16F19}|OOP.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Documents\\Desktop App\\OOP\\Migrations\\20250401083155_ASdaw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250401083155_ASdaw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Documents\\Desktop App\\OOP\\Models\\EnrollmentSetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\EnrollmentSetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Documents\\Desktop App\\SharedDatabase\\Models\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Documents\\Desktop App\\SharedDatabase\\SharedDatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Documents\\Desktop App\\SharedDatabase\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 171,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OOP.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\OOP.csproj",
+              "RelativeDocumentMoniker": "OOP.csproj",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\OOP.csproj",
+              "RelativeToolTip": "OOP.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-01T13:42:43.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Desktop App\\SharedDatabase\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "..\\SharedDatabase\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Desktop App\\SharedDatabase\\Models\\Student.cs",
+              "RelativeToolTip": "..\\SharedDatabase\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:32:50.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAswAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-01T17:25:08.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SharedDatabase.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Desktop App\\SharedDatabase\\SharedDatabase.csproj",
+              "RelativeDocumentMoniker": "..\\SharedDatabase\\SharedDatabase.csproj",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Desktop App\\SharedDatabase\\SharedDatabase.csproj",
+              "RelativeToolTip": "..\\SharedDatabase\\SharedDatabase.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-01T17:20:51.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:30:18.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\AdminDashboard.cs",
+              "RelativeToolTip": "AdminDashboard.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAewH0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:14:11.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentInfo.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\StudentInfo.cs",
+              "RelativeDocumentMoniker": "StudentInfo.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\StudentInfo.cs",
+              "RelativeToolTip": "StudentInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:05:43.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Desktop App\\SharedDatabase\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\SharedDatabase\\Class1.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Desktop App\\SharedDatabase\\Class1.cs",
+              "RelativeToolTip": "..\\SharedDatabase\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:03:37.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:13:12.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\AdminDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\AdminDashboard.Designer.cs",
+              "RelativeToolTip": "AdminDashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:10:54.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EnrollmentSetting.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\Models\\EnrollmentSetting.cs",
+              "RelativeDocumentMoniker": "Models\\EnrollmentSetting.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\Models\\EnrollmentSetting.cs",
+              "RelativeToolTip": "Models\\EnrollmentSetting.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T08:28:35.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAANkUAAAAAAAAAAAswPMUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-01T08:59:07.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250401083155_ASdaw.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\Migrations\\20250401083155_ASdaw.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250401083155_ASdaw.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\Migrations\\20250401083155_ASdaw.cs",
+              "RelativeToolTip": "Migrations\\20250401083155_ASdaw.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T08:31:56.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T05:59:14.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\StudentInfo.cs",
+              "RelativeDocumentMoniker": "StudentInfo.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\StudentInfo.cs [Design]",
+              "RelativeToolTip": "StudentInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T14:38:00.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentInfo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\StudentInfo.Designer.cs",
+              "RelativeDocumentMoniker": "StudentInfo.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\StudentInfo.Designer.cs",
+              "RelativeToolTip": "StudentInfo.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAhwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:08:23.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250331075150_Init.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\Migrations\\20250331075150_Init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250331075150_Init.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\Migrations\\20250331075150_Init.cs",
+              "RelativeToolTip": "Migrations\\20250331075150_Init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:51:50.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250331075103_ASDwad.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\Migrations\\20250331075103_ASDwad.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250331075103_ASDwad.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\Migrations\\20250331075103_ASDwad.cs",
+              "RelativeToolTip": "Migrations\\20250331075103_ASDwad.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:51:04.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminDashboard.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\AdminDashboard.resx",
+              "RelativeDocumentMoniker": "AdminDashboard.resx",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\AdminDashboard.resx",
+              "RelativeToolTip": "AdminDashboard.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-31T05:10:41.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "Service\\EmailService.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\Service\\EmailService.cs",
+              "RelativeToolTip": "Service\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:36:14.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:05:34.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Desktop App\\OOP\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:31:09.743Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
